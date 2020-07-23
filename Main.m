@@ -17,7 +17,7 @@
 % Vmax:  Maximum velocity
 % Wmax:  Maximum bound on inertia weight
 % Wmin:  Minimum bound on inertia weight
-% *Note: k-value of KNN & k-fold setting can be modified in jFitnessFunction.m
+% *Note: k-value of KNN & hold-out setting can be modified in jFitnessFunction.m
 %---Output-----------------------------------------------------------------
 % sFeat: Selected features (instances x features)
 % Sf:    Selected feature index

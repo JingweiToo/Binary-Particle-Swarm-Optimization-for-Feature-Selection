@@ -44,7 +44,7 @@ end
 Xpb=X; fitP=fit; 
 % Pre
 curve=inf; t=1; 
-figure(1); clf; axis([1 100 0 0.3]); xlabel('Number of Iterations');
+figure(1); clf; axis([1 100 0 0.2]); xlabel('Number of Iterations');
 ylabel('Fitness Value'); title('Convergence Curve'); grid on;
 %---Iterations start-------------------------------------------------------
 while t <= T
