@@ -58,15 +58,15 @@ title('BPSO'); grid on;
 
 ## Cite As
 ```code
-@inproceedings{too2019new,
+@article{too2019new,
   title={A new co-evolution binary particle swarm optimization with multiple inertia weight strategy for feature selection},
   author={Too, Jingwei and Abdullah, Abdul Rahim and Mohd Saad, Norhashimah},
-  booktitle={Informatics},
+  journal={Informatics},
   volume={6},
   number={2},
   pages={21},
   year={2019},
-  organization={Multidisciplinary Digital Publishing Institute}
+  publisher={Multidisciplinary Digital Publishing Institute}
 }
 
 
