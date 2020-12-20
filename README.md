@@ -47,7 +47,6 @@ plot(1:max_Iter,curve);
 xlabel('Number of Iterations');
 ylabel('Fitness Value');
 title('BPSO'); grid on;
-
 ```
 
 
@@ -80,6 +79,5 @@ title('BPSO'); grid on;
   year={2019},
   publisher={Multidisciplinary Digital Publishing Institute}
 }
-
 ```
 
